@@ -11,7 +11,7 @@ while not final and turno < turno_max: #IMPORTANTE DETERMINAR LAS VARIABLES QUE 
     print("(Max 3 turno) Turno:" , turno)
 
     jugador1 = input("¿Que elije el jugador 1? ¿Piedra, Papel o tijera?: ")
-    jugador2 = input("¿Que elije el jugador ? ¿Piedra, Papel o tijera?: ")
+    jugador2 = input("¿Que elije el jugador 2? ¿Piedra, Papel o tijera?: ")
     
 
 
